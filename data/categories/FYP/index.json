@@ -1,9 +1,8 @@
 {
-    "code": "4yp",
-    "title": "Final Year Project",
-    "images":{
-        "cover": "",
-        "thumbnail": ""
-    },
-    "description": "",
+   "code": "",
+   "images": {
+      "cover": ".",
+      "thumbnail": "."
+   },
+   "description": "This is a sample project description"
 }
