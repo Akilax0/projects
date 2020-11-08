@@ -1,4 +1,14 @@
 {
-    "FYP": "Final Year Research Project",
-    "Unified" : "3rd Year Unified Project",
+   "greenHouse": {
+      "link": "greenHouse",
+      "name": "Greenhouse Automation",
+      "desc": "IoT Based - Neural Network",
+      "thumb": "thumbs/greenhouse.jpg"
+   },
+   "3d-printer-2": {
+      "link": "3d-printer-2",
+      "name": "Crafter 3D v2",
+      "desc": "Advanced 3D Printer",
+      "thumb": "thumbs/3dprinter2.jpg"
+   }
 }
