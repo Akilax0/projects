@@ -1,14 +1,10 @@
 {
-   "greenHouse": {
-      "link": "greenHouse",
-      "name": "Greenhouse Automation",
-      "desc": "IoT Based - Neural Network",
-      "thumb": "thumbs/greenhouse.jpg"
+   "FYP": {
+      "link": "FYP",
+      "name": "Research Project"
    },
-   "3d-printer-2": {
-      "link": "3d-printer-2",
-      "name": "Crafter 3D v2",
-      "desc": "Advanced 3D Printer",
-      "thumb": "thumbs/3dprinter2.jpg"
+   "Unified": {
+       "link": "3yp",
+       "name": "Unified Project"
    }
 }
