@@ -5,5 +5,6 @@
       "cover": ".",
       "thumbnail": "."
    },
-   "description": "This is a sample project description"
+   "description": "This is a sample project description",
+   "area": "_provide code to identify project area_"
 }

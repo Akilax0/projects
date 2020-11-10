@@ -6,5 +6,9 @@
    "Unified": {
        "link": "3yp",
        "name": "Unified Project"
-   }
+   },
+   "Dept": {
+      "link": "dp",
+      "name": "Department Project"
+  }
 }
